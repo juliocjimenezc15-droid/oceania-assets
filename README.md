@@ -1,0 +1,2 @@
+# oceania-assets
+imagenes .glb
